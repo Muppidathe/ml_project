@@ -13,7 +13,7 @@ def get_requirements(file_path: str) -> List[str]:
 
         if '-e .' in requirements:
             requirements.remove('-e .')
-    #requirements.append('scikit-learn')
+    requirements.append('scikit-learn')
     return requirements
 
 
