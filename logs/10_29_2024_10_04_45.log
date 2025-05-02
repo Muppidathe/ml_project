@@ -1,5 +1,0 @@
-[ 2024-10-29 10:04:45,235 ] 29 root - INFO - An error occurred while dividing by zero
-[ 2024-10-29 10:04:45,816 ] 23 root - INFO - Initializing data ingestion
-[ 2024-10-29 10:04:45,816 ] 25 root - INFO - Data has been readed successfully
-[ 2024-10-29 10:04:45,816 ] 28 root - INFO - Raw data has been saved successfully
-[ 2024-10-29 10:04:45,835 ] 32 root - INFO - Train and test data has been saved successfully

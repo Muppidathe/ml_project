@@ -1,4 +1,0 @@
-[ 2024-10-29 10:05:41,282 ] 23 root - INFO - Initializing data ingestion
-[ 2024-10-29 10:05:41,286 ] 25 root - INFO - Data has been readed successfully
-[ 2024-10-29 10:05:41,289 ] 28 root - INFO - Raw data has been saved successfully
-[ 2024-10-29 10:05:41,294 ] 32 root - INFO - Train and test data has been saved successfully
